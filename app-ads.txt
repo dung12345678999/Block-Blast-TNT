@@ -1,5 +1,6 @@
 (updated 16/2/2024)
 
+google.com, pub-3637385927814303, DIRECT, f08c47fec0942fa0
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
